@@ -21,7 +21,7 @@ metadata:
   labels:
     env: dev
   name: my-nginx
-  namepace: my-nginx
+  namespace: my-nginx
 spec:
   replicas: 4
   selector:
